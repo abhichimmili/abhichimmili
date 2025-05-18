@@ -11,7 +11,7 @@
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me</h2>
 - 🌱 I’m currently learning: **Android Studio->>React Native & Flutter**
 
-- 💬 Ask me about: **Android,MERN**
+- 💬 Ask me about: **Android Apps**
 
 - 📫 How to reach me: **chimmiliabhi123@gmail.com**
 
