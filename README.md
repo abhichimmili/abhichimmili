@@ -9,7 +9,7 @@
 <img align="right"  alt="coding" width="350px" height="270px" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me</h2>
-- 🌱 I’m currently learning: **Android Studio->>React Native & Flutter**
+- 🌱 I’m currently learning: **Android Studio->>Java FULL STACK**
 
 - 💬 Ask me about: **Android Apps**
 
